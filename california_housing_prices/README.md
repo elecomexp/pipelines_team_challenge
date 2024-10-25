@@ -1,4 +1,4 @@
-# Predicción de precios de viviendas en California y Agrupamiento
+# Predicción de precios de viviendas en California y agrupamiento
 
 ## Descripción
 
